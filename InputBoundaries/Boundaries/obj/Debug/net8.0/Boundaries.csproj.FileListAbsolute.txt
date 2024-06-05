@@ -1,0 +1,15 @@
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\bin\Debug\net8.0\Boundaries.exe
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\bin\Debug\net8.0\Boundaries.deps.json
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\bin\Debug\net8.0\Boundaries.runtimeconfig.json
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\bin\Debug\net8.0\Boundaries.dll
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\bin\Debug\net8.0\Boundaries.pdb
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.AssemblyInfoInputs.cache
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.AssemblyInfo.cs
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.csproj.CoreCompileInputs.cache
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.sourcelink.json
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.dll
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\refint\Boundaries.dll
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.pdb
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\Boundaries.genruntimeconfig.cache
+C:\Users\pauli\dev\dotnet-formation\odissey-quests\limited-input\InputBoundaries\Boundaries\obj\Debug\net8.0\ref\Boundaries.dll
